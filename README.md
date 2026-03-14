@@ -1,0 +1,2 @@
+# config-dla-kurwy
+cweeweaw
